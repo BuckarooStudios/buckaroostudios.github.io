@@ -1,6 +1,5 @@
 #screenshot {
-   float: right;
-   margin-right: 25%
+   text-align: right;
    }
 #i {
 	color: red
