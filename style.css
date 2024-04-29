@@ -1,8 +1,10 @@
 #screenshot {
-   text-align: right;
+   text-align: left;
+   height: 114px;
+   width: 204px;
    }
 #i {
-	color: red
+color: red
     }
 html {
 	font-family: Trebuchet MS;}
