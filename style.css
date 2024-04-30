@@ -4,6 +4,7 @@
    width: 204px;
    }
 table {
+  margin: 20%
   font-family: Trebuchet MS;
   border-collapse: collapse;
   width: 100%;
@@ -40,6 +41,11 @@ hr {
     }
 h2 {
   margin-left: 22%;
+  font-size: 36px;
+  margin-bottom: -0.7%
+  }
+#tabletitle {
+  text-align: center;
   font-size: 36px;
   margin-bottom: -0.7%
   }
