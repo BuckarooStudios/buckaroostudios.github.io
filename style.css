@@ -4,6 +4,7 @@
    width: 204px;
    }
 table {
+  margin: auto;
   font-family: Trebuchet MS;
   border-collapse: collapse;
   width: 100%;
